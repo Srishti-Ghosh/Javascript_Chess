@@ -29,7 +29,7 @@ A browser-based Chess game built with **HTML**, **CSS**, and **JavaScript**. Pla
    open practice.html
    ```
 
-That's it! You can now play the game on your system now. Or try [online](http://htmlpreview.github.io/?https://github.com/Srishti-Ghosh/Javascript_Chess/blob/main/practice.html).
+That's it! You can play the game on your system now. Or try [online](http://htmlpreview.github.io/?https://github.com/Srishti-Ghosh/Javascript_Chess/blob/main/practice.html).
 
 
 ## Project Structure
